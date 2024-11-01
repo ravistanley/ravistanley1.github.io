@@ -13,3 +13,8 @@ tags:
     - Bsides
 weight: 1
 ---
+
+###Introduction
+The CTI intercepted the attached file. Analyze it and respond to the questions.
+
+Download the attached file and make sense out of it.
