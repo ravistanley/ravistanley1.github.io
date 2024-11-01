@@ -5,12 +5,11 @@ slug: wifi-hacking-101
 date: 2024-03-19 00:00:00+0000
 image: cover.jpg
 categories:
-    - Networking
-    - WPA(2)
-    - WIFI
+    - Misc
+    - Easy
 tags:
-    - Networking
-    - WPA(2)
-    - WIFI
+    - Misc
+    - Easy
+    - Bsides
 weight: 1
 ---
